@@ -10,3 +10,5 @@ console.log("NodeJS web server running on 0.0.0.0:3000");
 console.log("Whatever you want");
 
 console.log("stoopid");
+console.log("file");
+
