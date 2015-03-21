@@ -7,4 +7,6 @@ var server = http.createServer(function(req, res) {
 
 server.listen(3000, '0.0.0.0');
 console.log("NodeJS web server running on 0.0.0.0:3000");
-console.log("Whatever you want")
+console.log("Whatever you want");
+
+console.log("stoopid");
